@@ -1,25 +1,3 @@
-# :handbag: Shopie
-Sample MVVM e-commerce application for Android that uses Kotlin programming language. The application has 100 different products in different categories. :arrow_down:
-- API: A set of functions and procedures allowing the creation of applications. The application uses the [link](https://dummyjson.com/) as API.
-
-
-Don't forget to star the project if you like it!  :heart: ==  :star:
-
-##  Dependencies :high_brightness:
-
-
-| :key: Name      | :book: Description | :link: Link    |
-| :---        |    :----   |          :--- |
-| ` Live data`      | _LiveData is an Observable data holder that allows us to monitor changes in a data. LiveData is lifecycle aware._| [link](https://developer.android.com/topic/libraries/architecture/livedata)   |
-| ` Retrofit`  | _A type-safe HTTP client for Android and Java._        |   [link](https://square.github.io/retrofit/)|
-| ` RxJava`       |    _A library for composing asynchronous and event-based programs using observable sequences for the Java VM._|[link](https://github.com/ReactiveX/RxJava) |
-| ` Coroutines`|   _A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously._|[link](https://developer.android.com/kotlin/coroutines#:~:text=A%20coroutine%20is%20a%20concurrency,established%20concepts%20from%20other%20languages.) |
-| ` Room`   |_The Room persistence library provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite._|[link](https://developer.android.com/training/data-storage/room)|
-| `View binding`|_View binding is a feature that allows you to more easily write code that interacts with views._| [link](https://developer.android.com/topic/libraries/view-binding) |
-| `MVVM`  |_Model, View, ViewModel.<br/>* *Model*: This holds the data of the application. It cannot directly talk to the View.<br/>* *View*: It represents the UI of the application <br/>* *ViewModel*: It acts as a link between the Model and the View._|[link](https://www.digitalocean.com/community/tutorials/android-mvvm-design-pattern) |
-| `Data Binding`|_A support library that allows you to bind UI components in your layouts to data sources using a declarative format rather than programmatically._|[link](https://developer.android.com/topic/libraries/data-binding) |
-| `Jetpack`  |_Library containing Room, hilt, paging, data binding..._   |[link](https://developer.android.com/jetpack/androidx/explorer)|
-| `Glide`  |_Image loading framework for Android._|[link](https://github.com/bumptech/glide)|
 
 
 
@@ -44,14 +22,7 @@ Don't forget to star the project if you like it!  :heart: ==  :star:
 
 
 
-##   _TO DO_ :heavy_check_mark:
-- [x] Discover 
-- [x] Favorites 
-- [x] Cart 
-- [x] Products by category
-- [ ] Payment screen with Stripe API
-- [ ] Sign in screen with Firebase
-- [ ] Profile screen
+
 --------------------------------
 - [ ] Jetpack compose
 - [ ] Testing
